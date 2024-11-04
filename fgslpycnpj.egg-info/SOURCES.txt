@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+fgslpycnpj/fgslpycnpj.py
+fgslpycnpj.egg-info/PKG-INFO
+fgslpycnpj.egg-info/SOURCES.txt
+fgslpycnpj.egg-info/dependency_links.txt
+fgslpycnpj.egg-info/top_level.txt
+fgslpycnpj/cnpj/.gitignore
+fgslpycnpj/cnpj/CNPJ.py
+fgslpycnpj/cnpj/DigitoVerificador.py
+fgslpycnpj/cnpj/__init__.py

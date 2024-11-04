@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+[project]
+name="fgslpycnpj"
+version="1.0.1"
+authors=[
+	{name="Flávio Gomes da Silva Lisboa",email="flavio.lisboa@fgsl.eti.br"}
+]	
+description="Componente Python para validar CNPJ e gerar dígito verificador"
+readme="README.md"
+classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+]
+requires-python='>=3.10'
+[project.urls]
+Homepage = "https://github.com/fgsl/fgslpycnpj"
+Documentation = "https://github.com/fgsl/fgslpycnpj"
+Repository = "https://github.com/fgsl/fgslpycnpj"
+
